@@ -5,7 +5,7 @@ This an unsupervised data set.The data set is given below
 [Cereal Dataset](http://www.cs.umd.edu/hcil/hce/examples/cereal/cereal-updated.txt)
 
 There are some missing values in the data set. There are generally two ways to deal with missing value.either delete the whole row
-or replace the value with average dataset . We choose the later step for this  project. We changed the txt file to .arff file to import the data set in weka. We used the knowledge of making[ cluersing] (https://www.geeksforgeeks.org/clustering-in-machine-learning/) out of these dataset. Then we choose a random cutting point from the dendogram to select the clusters. The clusters gave us different groups of clusters. 
+or replace the value with average dataset . We choose the later step for this  project. We changed the txt file to .arff file to import the data set in weka. We used the knowledge of making[ cluersing](https://www.geeksforgeeks.org/clustering-in-machine-learning/) out of these dataset. Then we choose a random cutting point from the dendogram to select the clusters. The clusters gave us different groups of clusters. 
 
 ## Outputs
 * We made differnt different out of the dendogram .
